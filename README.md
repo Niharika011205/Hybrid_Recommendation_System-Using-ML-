@@ -1,4 +1,4 @@
-# Amazon Prime Video - Hybrid Recommendation System
+# Hybrid Recommendation System using ML
 
 A sophisticated recommendation engine that combines **Content-Based Filtering** and **Collaborative Filtering** to suggest movies and TV shows from Amazon Prime Video's catalog.
 
